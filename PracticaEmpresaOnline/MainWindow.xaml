@@ -1,0 +1,29 @@
+﻿<Window x:Class="PracticaEmpresaOnline.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PracticaEmpresaOnline"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <Grid Margin="0,0,0.333,-2.333">
+        <Label Content="Clientes" HorizontalAlignment="Left" Margin="69,22,0,0" VerticalAlignment="Top"/>
+        <ListBox Name = "listaClientes" HorizontalAlignment="Left" Height="199" Margin="39,53,0,0" VerticalAlignment="Top" Width="116" SelectionChanged="listClientes_SelectionChanged"/>
+        <Label Content="Pedidos" HorizontalAlignment="Left" Margin="249,22,0,0" VerticalAlignment="Top"/>
+        <ListBox Name="listaPedidos" HorizontalAlignment="Left" Height="199" Margin="203,53,0,0" VerticalAlignment="Top" Width="151"/>
+        <Button Name="btnInsertar" Content="Insertar" HorizontalAlignment="Left" Margin="39,267,0,0" VerticalAlignment="Top" Width="53" Click="btnInsertar_Click"/>
+        <Button Name="btnEliminar" Content="Eliminar" HorizontalAlignment="Left" Margin="39,293,0,0" VerticalAlignment="Top" Width="53" Click="Button_Click"/>
+        <Button Name="btnModificar" Content="Modificar" HorizontalAlignment="Left" Margin="97,267,0,0" VerticalAlignment="Top" Width="58" Click="btnModificar_Click"/>
+        <TextBox Name="txtNombre" HorizontalAlignment="Left" Height="23" Margin="510,59,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="txtApellidos" HorizontalAlignment="Left" Height="23" Margin="510,99,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200"/>
+        <TextBox Name="txtDNI" HorizontalAlignment="Left" Height="23" Margin="510,141,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="90"/>
+        <TextBox Name="txtTelefono" HorizontalAlignment="Left" Height="23" Margin="510,187,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="90"/>
+        <TextBox Name="txtEmail" HorizontalAlignment="Left" Height="23" Margin="510,226,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200"/>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="440,59,0,0" VerticalAlignment="Top"/>
+        <Label Content="Apellidos" HorizontalAlignment="Left" Margin="440,100,0,0" VerticalAlignment="Top"/>
+        <Label Content="DNI" HorizontalAlignment="Left" Margin="440,141,0,0" VerticalAlignment="Top"/>
+        <Label Content="Teléfono" HorizontalAlignment="Left" Margin="440,187,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.525,0.241"/>
+        <Label Content="Email" HorizontalAlignment="Left" Margin="440,226,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

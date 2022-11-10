@@ -1,0 +1,34 @@
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\bin\Debug\PracticaEmpresaOnline.exe.config
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\bin\Debug\PracticaEmpresaOnline.exe
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\bin\Debug\PracticaEmpresaOnline.pdb
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline.csprojAssemblyReference.cache
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\MainWindow.g.cs
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\App.g.cs
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline_MarkupCompile.cache
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline_MarkupCompile.lref
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\MainWindow.baml
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline.g.resources
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline.Properties.Resources.resources
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline.csproj.GenerateResource.cache
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline.csproj.CoreCompileInputs.cache
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline.exe
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline.pdb
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\Modificar.g.cs
+C:\Users\peper\Desktop\DAM\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\Modificar.baml
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\bin\Debug\PracticaEmpresaOnline.exe.config
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\bin\Debug\PracticaEmpresaOnline.exe
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\bin\Debug\PracticaEmpresaOnline.pdb
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline.csprojAssemblyReference.cache
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\MainWindow.g.cs
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\Modificar.g.cs
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\App.g.cs
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline_MarkupCompile.cache
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline_MarkupCompile.lref
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\MainWindow.baml
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\Modificar.baml
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline.g.resources
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline.Properties.Resources.resources
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline.csproj.GenerateResource.cache
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline.csproj.CoreCompileInputs.cache
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline.exe
+C:\Users\peper\Desktop\DAM\DAM I\3 Trimestre\Programacion\PracticaEmpresaOnline\PracticaEmpresaOnline\obj\Debug\PracticaEmpresaOnline.pdb
